@@ -1,0 +1,34 @@
+{
+  "name": "angular-template-header",
+  "version": "1.0.0",
+  "description": "An ESLint rule that requires file headers in Angular templates",
+  "keywords": [
+    "eslint"
+  ],
+  "homepage": "https://github.com/ocket8888/angular-template-header#readme",
+  "bugs": {
+    "url": "https://github.com/ocket8888/angular-template-header/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ocket8888/angular-template-header.git"
+  },
+  "license": "GPL-3.0-or-later",
+  "author": "ocket8888",
+  "type": "module",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.6",
+    "eslint": "^9.39.5",
+    "eslint-plugin-prettier": "^5.5.7",
+    "typescript": "^5.8.3",
+    "typescript-eslint": "^8.36.0"
+  }
+}
