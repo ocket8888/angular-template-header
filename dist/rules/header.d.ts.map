@@ -1,0 +1,1 @@
+{"version":3,"file":"header.d.ts","sourceRoot":"","sources":["../../lib/rules/header.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,gBAAgB,EAAE,MAAM,QAAQ,CAAC;AAI/C,eAAO,MAAM,UAAU,EAAE,gBAAgB,CAAC;IAAE,WAAW,EAAE,CAAC;QAAE,MAAM,EAAE,MAAM,CAAA;KAAE,CAAC,CAAA;CAAE,CA2D9E,CAAC"}
